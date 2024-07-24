@@ -17,7 +17,7 @@ Abstract: *Applying diffusion models to image-to-image translation (I2I) has rec
 If you find the code useful for your research, please consider citing
 
 ```bib
-@inproceedings{xia2024dmt,
+@article{xia2024dmt,
   title={A Diffusion Model Translator for Efficient Image-to-Image Translation},
   author={Xia, Mengfei and Zhou, Yu and Yi, Ran and Liu, Yong-Jin and Wang, Wenping},
   booktitle={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
