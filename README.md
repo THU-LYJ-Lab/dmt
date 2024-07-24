@@ -20,7 +20,7 @@ If you find the code useful for your research, please consider citing
 @article{xia2024dmt,
   title={A Diffusion Model Translator for Efficient Image-to-Image Translation},
   author={Xia, Mengfei and Zhou, Yu and Yi, Ran and Liu, Yong-Jin and Wang, Wenping},
-  booktitle={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
   year={2024},
 }
 ```
