@@ -17,7 +17,6 @@ __pycache__/
 __MACOSX/
 
 # Ignore data files.
-data/
 *.npy
 *.tar
 *.zip
