@@ -49,3 +49,6 @@ profile/
 *.log
 *.html
 events.*
+
+# Files that should not be ignored.
+!requirements.txt
